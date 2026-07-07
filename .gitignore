@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Environment variables
+.env
+
+# Audio files
+*.wav
+*.mp3
+*.flac
+
+# Large feature files
+*.npy
+*.npz
+
+# Archives
+*.zip
+*.tar
+*.gz
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# PyTorch checkpoints (optional)
+*.pth
